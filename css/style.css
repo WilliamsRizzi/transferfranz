@@ -11,14 +11,14 @@
 }
 
 .parallax-container {
-  min-height: 700px !Important;
+  min-height: 570px !Important;
   line-height: 0;
   height: auto;
   color: rgba(255,255,255,.9);
 }
 
 .parallax > img{
-     max-width: 100%!Important;
+    /*max-width: 100%!Important;*/
     height:auto;
 }
 
