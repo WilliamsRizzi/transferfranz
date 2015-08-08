@@ -88,3 +88,10 @@ footer.page-footer {
 .parallax-container {
     height: 100%;
 }
+#initSection {
+   /* height: 20vh!Important;*/
+}
+
+#index-banner {
+    height: 80vh!Important;
+}
