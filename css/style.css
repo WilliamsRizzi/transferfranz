@@ -95,3 +95,7 @@ footer.page-footer {
 #index-banner {
     height: 80vh!Important;
 }
+
+h2{
+    font-size: 3em; !Important
+}
